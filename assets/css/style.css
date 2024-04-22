@@ -8,7 +8,6 @@
     box-sizing: border-box;
 }
 
-
 :root {
     /* font size */
     --fs_14: 14px;
@@ -26,7 +25,6 @@
     --fw_600: 600;
     --fw_700: 700;
 }
-
 
 .fs_14 {
     font-size: var(--fs_14);
@@ -48,7 +46,6 @@
     font-size: var(--fs_24px);
 }
 
-
 .fs_25 {
     font-size: var(--fs_25);
 }
@@ -60,7 +57,6 @@
 .fs_40 {
     font-size: var(--fs-40px);
 }
-
 
 .white {
     color: var(--white);
@@ -101,53 +97,6 @@
 .rubik {
     font-family: 'Rubik', sans-serif;
 }
-
-@media (min-width:998px) {
-    :root {
-        /* font size */
-        --fs-14: 14px;
-        --fs_16: 16px;
-        --fs_18: 18px;
-        --fs_20: 20px;
-        --fs-24: 24px;
-        --fs_25: 25px;
-        --fs_35: 35px;
-        --fs-40: 40px;
-    }
-
-    .fs_14 {
-        font-size: var(--fs_14px);
-    }
-
-    .fs_16 {
-        font-size: var(--fs_16);
-    }
-
-    .fs_18 {
-        font-size: var(--fs_18px);
-    }
-
-    .fs_20 {
-        font-size: var(--fw_20px);
-    }
-
-    .fs_24 {
-        font-size: var(--fs_24px);
-    }
-
-    .fs_25 {
-        font-size: var(--fs_25);
-    }
-
-    .fs_35 {
-        font-size: var(--fs_35px);
-    }
-
-    .fs_40 {
-        font-size: var(--fs_40px);
-    }
-}
-
 
 .container {
     max-width: 1140px;
@@ -201,7 +150,6 @@
     position: relative;
 }
 
-
 .vpn {
     color: #0B132A;
     font-family: Rubik;
@@ -253,7 +201,6 @@
     margin-right: 40px;
 }
 
-
 .h4 {
     color: #0B132A;
     text-align: center;
@@ -265,7 +212,6 @@
     padding-top: 30px;
 }
 
-
 .line2 {
     color: #4F5665;
     font-family: Rubik;
@@ -276,8 +222,6 @@
     padding-left: 21px;
 }
 
-
-
 .free {
     color: #0B132A;
     text-align: center;
@@ -287,7 +231,6 @@
     font-weight: 500;
     line-height: 30px;
 }
-
 
 #myBtn {
     z-index: 99;
@@ -312,7 +255,6 @@
 .pt-50 {
     padding-top: 50px;
 }
-
 
 .free1 {
     color: #0B132A;
@@ -346,7 +288,6 @@
     padding-top: 50px;
 }
 
-
 .heading3 {
     width: 383.406px;
     color: #0B132A;
@@ -358,7 +299,6 @@
     line-height: 50px;
     padding-top: 150px;
 }
-
 
 .btn1 {
     color: #F53838;
@@ -375,20 +315,16 @@
     transition: all 300ms linear;
 }
 
-
 .mxauto {
     margin-left: auto;
     margin-right: auto;
 }
-
 
 .btn1:hover {
     background-color: #F53838;
     color: #FFF;
     box-shadow: 0px 20px 20px 0px #F5383859;
 }
-
-
 
 nav h2 {
     color: #0B132A;
@@ -458,8 +394,6 @@ nav ul li a:hover {
     border-radius: 50px;
 }
 
-
-
 .btn-a:hover {
     background-color: #F53855;
     color: white;
@@ -484,7 +418,6 @@ nav ul li a:hover {
     font-style: normal;
     font-weight: 700;
     line-height: 70px;
-
 }
 
 .para {
@@ -527,7 +460,6 @@ nav ul li a:hover {
     border: none;
     margin-top: 104px;
     margin-bottom: 83px;
-
 }
 
 .card:hover {
@@ -626,7 +558,6 @@ nav ul li a:hover {
     padding-right: 12px;
 }
 
-
 .mt-20 {
     margin-top: 20px;
 }
@@ -652,12 +583,10 @@ nav ul li a:hover {
     background: #FFF;
 }
 
-
 .box:hover {
     border: 2px solid #F53838;
     transition: all 300ms linear;
 }
-
 
 .box h3 {
     color: #0B132A;
@@ -839,8 +768,8 @@ nav ul li a:hover {
 }
 
 .box-slider {
-     max-width: 400px !important;
-   max-height: 230px !important;
+    max-width: 400px !important;
+    max-height: 230px !important;
     border-radius: 10px;
     border: 2px solid #DDDDDD;
     background: #FFF;
@@ -952,9 +881,8 @@ nav ul li a:hover {
     background-color: red;
     margin: 0 -15px;
     position: absolute;
-    transition:all 300ms linear;
+    transition: all 300ms linear;
 }
-
 
 .slick-slider .slick-dots li button:before {
     position: absolute;
@@ -984,8 +912,8 @@ nav ul li a:hover {
     padding: 0;
     margin: 0;
     list-style: none;
-    text-align: center;}
-
+    text-align: center;
+}
 .my-100 {
     margin-left: 100px;
     margin-right: 100px;
@@ -1010,7 +938,6 @@ nav ul li a:hover {
     padding: 0 70px;
 }
 
-
 .subscibe h2 {
     display: flex;
     max-width: 371.615px;
@@ -1022,7 +949,6 @@ nav ul li a:hover {
     line-height: 45px;
     padding-top: 50px;
 }
-
 
 .para3 {
     width: 555px;
@@ -1037,7 +963,6 @@ nav ul li a:hover {
     padding-top: 20px;
 }
 
-
 .subscibe p {
     max-width: 410px;
     color: #4F5665;
@@ -1049,11 +974,11 @@ nav ul li a:hover {
     padding-top: 20px;
 }
 
-
 .heading4 {
     width: 447.805px;
     color: #0B132A;
-    text-align: center;
+
+  text-align: center;
     font-family: Rubik;
     font-size: 35px;
     font-style: normal;
@@ -1093,7 +1018,6 @@ nav ul li a:hover {
     padding-right: 12px;
 }
 
-
 .para4 {
     width: 555px;
     color: #4F5665;
@@ -1105,7 +1029,6 @@ nav ul li a:hover {
     line-height: 30px;
     padding-top: 20px;
 }
-
 
 .name {
     color: #0B132A;
@@ -1138,7 +1061,6 @@ nav ul li a:hover {
     padding-right: 10px;
 }
 
-
 .footerhead {
     color: #0B132A;
     font-family: Rubik;
@@ -1159,7 +1081,6 @@ nav ul li a:hover {
     padding-top: 10px;
 }
 
-
 .footerpara {
     color: #4F5665;
     font-family: Rubik;
@@ -1170,7 +1091,6 @@ nav ul li a:hover {
     padding-top: 10px;
 }
 
-
 .lasles1 {
     color: #AFB5C0;
     font-family: Rubik;
@@ -1178,7 +1098,7 @@ nav ul li a:hover {
     font-style: normal;
     font-weight: 400;
 }
- 
+
 .vpn1 {
     color: #AFB5C0;
     font-family: Rubik;
@@ -1187,7 +1107,6 @@ nav ul li a:hover {
     font-weight: 500;
     line-height: 30px;
 }
-
 
 .download {
     color: #4F5665;
@@ -1202,7 +1121,6 @@ nav ul li a:hover {
 .download:hover {
     color: #F53838;
 }
-
 
 .col-7 {
     width: 58.33%;
@@ -1343,21 +1261,17 @@ nav ul li a:hover {
         right: 0;
         gap: 58px;
     }
-
-
-  
 }
-  @media (max-width:1050px) {
-      .btn-1 {
-          margin-left: -30px;
-      }
 
-      .mr-40 {
-          margin-right: 20px;
-      }
-  }
+@media (max-width:1050px) {
+    .btn-1 {
+        margin-left: -30px;
+    }
 
-
+    .mr-40 {
+        margin-right: 20px;
+    }
+}
 
 @media (max-width:992px) {
     .col-lg-12 {
@@ -1437,6 +1351,52 @@ nav ul li a:hover {
     }
 }
 
+@media (min-width:998px) {
+    :root {
+        /* font size */
+        --fs-14: 14px;
+        --fs_16: 16px;
+        --fs_18: 18px;
+        --fs_20: 20px;
+        --fs-24: 24px;
+        --fs_25: 25px;
+        --fs_35: 35px;
+        --fs-40: 40px;
+    }
+
+    .fs_14 {
+        font-size: var(--fs_14px);
+    }
+
+    .fs_16 {
+        font-size: var(--fs_16);
+    }
+
+    .fs_18 {
+        font-size: var(--fs_18px);
+    }
+
+    .fs_20 {
+        font-size: var(--fw_20px);
+    }
+
+    .fs_24 {
+        font-size: var(--fs_24px);
+    }
+
+    .fs_25 {
+        font-size: var(--fs_25);
+    }
+
+    .fs_35 {
+        font-size: var(--fs_35px);
+    }
+
+    .fs_40 {
+        font-size: var(--fs_40px);
+    }
+}
+
 @media (max-width:1050px) {
     .col-lg-6 {
         width: 50%;
@@ -1497,7 +1457,6 @@ nav ul li a:hover {
         .pb-30 {
             padding-bottom: 30px;
         }
-
     }
 
     @media (max-width:400px) {
@@ -1518,19 +1477,16 @@ nav ul li a:hover {
             padding-right: 12px;
         }
 
-        
-    .heading4 {
-        font-size: 26px;
-        width: 100%;
-        padding-top: 70px;
-    }
+        .heading4 {
+            font-size: 26px;
+            width: 100%;
+            padding-top: 70px;
+        }
 
-    
-    .para4 {
-        font-size: 12px;
-        width: 100%;
-    }
-
+        .para4 {
+            font-size: 12px;
+            width: 100%;
+        }
 
         .heading3 {
             font-size: 26px;
@@ -1542,13 +1498,12 @@ nav ul li a:hover {
             font-size: 12px;
             width: 100%;
         }
-        
-        
-    .heading2 {
-        font-size: 26px;
-        padding-top: 30px;
-        width: 100%;
-    }
+
+        .heading2 {
+            font-size: 26px;
+            padding-top: 30px;
+            width: 100%;
+        }
 
         .card {
             width: 100%;
