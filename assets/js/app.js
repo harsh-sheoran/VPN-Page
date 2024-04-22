@@ -1,5 +1,3 @@
-
-
 $('.slick-slider').slick({
     dots: true,
     infinite: true,
