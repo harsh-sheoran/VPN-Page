@@ -237,14 +237,136 @@
     color: #F53838;
 }
 
+.heading2 {
+    color: #0B132A;
+    text-align: center;
+    font-family: Rubik;
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 50px;
+    width: 383.406px;
+    padding-top: 80px;
+}
 
 .mr-40 {
     margin-right: 40px;
 }
 
+
+.h4 {
+    color: #0B132A;
+    text-align: center;
+    font-family: Rubik;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 30px;
+    padding-top: 30px;
+}
+
+
+.line2 {
+    color: #4F5665;
+    font-family: Rubik;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    padding-left: 21px;
+}
+
+
+
+.free {
+    color: #0B132A;
+    text-align: center;
+    font-family: Rubik;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 30px;
+}
+
+
 .pt-50 {
     padding-top: 50px;
 }
+
+
+.free1 {
+    color: #0B132A;
+    text-align: center;
+    font-family: Rubik;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 30px;
+    padding-top: 93px;
+}
+
+.money {
+    color: #4F5665;
+    font-family: Rubik;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.free2 {
+    color: #0B132A;
+    text-align: center;
+    font-family: Rubik;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 30px;
+    padding-top: 50px;
+}
+
+
+.heading3 {
+    width: 383.406px;
+    color: #0B132A;
+    text-align: center;
+    font-family: Rubik;
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 50px;
+    padding-top: 150px;
+}
+
+
+.btn1 {
+    color: #F53838;
+    font-family: Rubik;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    width: 177.876px;
+    height: 45px;
+    cursor: pointer;
+    border-radius: 50px;
+    border: 2px solid #F53838;
+    transition: all 300ms linear;
+}
+
+
+.mxauto {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.btn1:hover {
+    background-color: #F53838;
+    color: #FFF;
+    box-shadow: 0px 20px 20px 0px #F5383859;
+}
+
 
 
 nav h2 {
@@ -881,6 +1003,21 @@ nav ul li a:hover {
     padding-top: 50px;
 }
 
+
+.para3 {
+    width: 555px;
+    color: #4F5665;
+    height: 60px;
+    text-align: center;
+    font-family: Rubik;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    padding-top: 20px;
+}
+
+
 .subscibe p {
     max-width: 410px;
     color: #4F5665;
@@ -891,6 +1028,20 @@ nav ul li a:hover {
     line-height: 30px;
     padding-top: 20px;
 }
+
+
+.heading4 {
+    width: 447.805px;
+    color: #0B132A;
+    text-align: center;
+    font-family: Rubik;
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 50px;
+    padding-top: 130px;
+}
+
 
 .butn {
     border-radius: 10px;
@@ -921,6 +1072,73 @@ nav ul li a:hover {
     padding-left: 12px;
     padding-right: 12px;
 }
+
+
+.para4 {
+    width: 555px;
+    color: #4F5665;
+    text-align: center;
+    font-family: Rubik;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    padding-top: 20px;
+}
+
+
+.name {
+    color: #0B132A;
+    text-align: center;
+    font-family: Rubik;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 30px;
+}
+
+.profession {
+    color: #4F5665;
+    text-align: center;
+    font-family: Rubik;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+
+.rating {
+    color: #0B132A;
+    font-family: Rubik;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    padding-right: 10px;
+}
+
+
+.footerhead {
+    color: #0B132A;
+    font-family: Rubik;
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 45px;
+    max-width: 371px;
+}
+
+.footerpara {
+    color: #4F5665;
+    font-family: Rubik;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    padding-top: 10px;
+}
+
 
 .col-7 {
     width: 58.33%;
@@ -1235,6 +1453,38 @@ nav ul li a:hover {
             padding-left: 12px;
             padding-right: 12px;
         }
+
+        
+    .heading4 {
+        font-size: 26px;
+        width: 100%;
+        padding-top: 70px;
+    }
+
+    
+    .para4 {
+        font-size: 12px;
+        width: 100%;
+    }
+
+
+        .heading3 {
+            font-size: 26px;
+            width: 100%;
+            padding-top: 60px;
+        }
+
+        .para3 {
+            font-size: 12px;
+            width: 100%;
+        }
+        
+        
+    .heading2 {
+        font-size: 26px;
+        padding-top: 30px;
+        width: 100%;
+    }
 
         .card {
             width: 100%;
