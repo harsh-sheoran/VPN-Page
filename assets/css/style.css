@@ -289,6 +289,26 @@
 }
 
 
+#myBtn {
+    z-index: 99;
+    right: 30px;
+    border: none;
+    bottom: 20px;
+    outline: none;
+    display: none;
+    padding: 15px;
+    color: white;
+    cursor: pointer;
+    position: fixed;
+    font-size: 18px;
+    border-radius: 30px;
+    background-color: black;
+}
+
+#myBtn:hover {
+    background-color: #555;
+}
+
 .pt-50 {
     padding-top: 50px;
 }
@@ -302,7 +322,8 @@
     font-style: normal;
     font-weight: 500;
     line-height: 30px;
-    padding-top: 93px;
+    margin-bottom: 30px;
+    padding-top: 30px;
 }
 
 .money {
@@ -421,7 +442,6 @@ nav ul li a:hover {
 }
 
 .btn-1:hover {
-    border: 2px solid red;
     color: red;
     transition: all 300ms linear;
 }
@@ -900,7 +920,7 @@ nav ul li a:hover {
 
 .btn-slide {
     position: absolute;
-    right: 15%;
+    right: 2%;
     bottom: -96px;
 }
 
@@ -939,7 +959,7 @@ nav ul li a:hover {
 .slick-slider .slick-dots li button:before {
     position: absolute;
     width: 15px;
-    height: 15px;
+    height: 15px !important;
     border-radius: 50%;
     content: '';
     background-color: black;
@@ -959,7 +979,7 @@ nav ul li a:hover {
     position: absolute;
     bottom: -66px;
     display: flex;
-    left: 2%;
+    left: 6%;
     width: 100%;
     padding: 0;
     margin: 0;
@@ -1548,7 +1568,6 @@ nav ul li a:hover {
         }
 
         .btn-card {
-            /* height: 300px; */
             border: none;
             overflow: scroll;
             background-color: transparent;
